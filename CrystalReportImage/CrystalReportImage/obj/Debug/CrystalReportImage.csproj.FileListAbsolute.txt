@@ -1,0 +1,9 @@
+D:\Website\CrystalReport\CrystalReportImage\CrystalReportImage\obj\Debug\CrystalReportImage.csprojResolveAssemblyReference.cache
+D:\Website\CrystalReport\CrystalReportImage\CrystalReportImage\obj\Debug\CrystalReportImage.Form1.resources
+D:\Website\CrystalReport\CrystalReportImage\CrystalReportImage\obj\Debug\CrystalReportImage.Properties.Resources.resources
+D:\Website\CrystalReport\CrystalReportImage\CrystalReportImage\obj\Debug\CrystalReportImage.csproj.GenerateResource.Cache
+D:\Website\CrystalReport\CrystalReportImage\CrystalReportImage\bin\Debug\CrystalReportImage.exe
+D:\Website\CrystalReport\CrystalReportImage\CrystalReportImage\bin\Debug\CrystalReportImage.pdb
+D:\Website\CrystalReport\CrystalReportImage\CrystalReportImage\obj\Debug\CrystalReportImage.exe
+D:\Website\CrystalReport\CrystalReportImage\CrystalReportImage\obj\Debug\CrystalReportImage.pdb
+D:\Website\CrystalReport\CrystalReportImage\CrystalReportImage\obj\Debug\CrystalReportImage.Form2.resources
